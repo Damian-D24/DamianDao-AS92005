@@ -10,3 +10,57 @@ grid-row-gap: 0px;
 .base { grid-area: 2 / 1 / 5 / 5; }
 .side { grid-area: 2 / 5 / 6 / 6; }
 .footer { grid-area: 5 / 1 / 6 / 5; }
+
+.navigation {
+padding: 60px;
+text-align: center;
+background: #1abc9c;
+color: white;
+font-size: 30px;
+background-image: url("images/kiwi.png");
+background-repeat: no-repeat, repeat;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+.side {
+text-align: center;
+margin-left: 20px;
+}
