@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4c20617-8ff2-4eb3-b4f3-af8603e5eab6" name="Changes" comment="test">
+    <list default="true" id="e4c20617-8ff2-4eb3-b4f3-af8603e5eab6" name="Changes" comment="12/06/2025">
+      <change afterPath="$PROJECT_DIR$/fourth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/children.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/haveyoursay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/headers/page4header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/volunteer.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +37,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/23154/PycharmProjects/DamianDao-AS92005/images",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005\images" />
+      <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005\images\headers" />
+      <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005\images\headers" />
       <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005\images" />
     </key>
   </component>
@@ -87,11 +100,20 @@
       <option name="project" value="LOCAL" />
       <updated>1749515678507</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="12/06/2025">
+      <option name="closed" value="true" />
+      <created>1749678763862</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749678763862</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="12/06/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/06/2025" />
   </component>
 </project>
