@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4c20617-8ff2-4eb3-b4f3-af8603e5eab6" name="Changes" comment="12/06/2025">
-      <change afterPath="$PROJECT_DIR$/images/business.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/course.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/drone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/farm.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/help.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth.css" beforeDir="false" afterPath="$PROJECT_DIR$/fourth.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second.css" beforeDir="false" afterPath="$PROJECT_DIR$/second.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

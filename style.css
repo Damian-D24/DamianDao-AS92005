@@ -17,6 +17,60 @@ grid-row-gap: 0px;
 .side { grid-area: 2 / 5 / 6 / 6; }
 .footer { grid-area: 5 / 1 / 6 / 5; }
 
+/*FOOTER*/
+*{
+padding: 0;
+box-sizing: border-box;
+}
+.footer{
+margin-top: 150px;
+padding: 100px 15%;
+width: 100%;
+background: #04AA6D;
+color: white;
+display: flex;
+}
+
+.footer div{
+text-align: center;
+}
+
+.col-1 a{
+display: block;
+text-decoration: none;
+color: #efefef;
+margin-bottom: 10px;
+}
+
+.col-2{
+flex-grow: 2;
+}
+
+.col-3 a{
+display: block;
+text-decoration: none;
+color: #efefef;
+margin-bottom: 10px;
+}
+
+.footer div h4{
+font-weight:600;
+margin-bottom: 30px;
+letter-spacing: 1px;
+}
+
+/*FOOTER FORM*/
+form input{
+width: 400px;
+height:45px;
+border-radius: 4px;
+text-align: center;
+margin-top: 20px;
+margin-botton: 40px;
+outline: none;
+border: none;
+}
+
 .navigation {
 padding: 60px;
 background: #1abc9c;
@@ -119,4 +173,14 @@ text-align: center;
 .button1:hover {
   background-color: #04AA6D;
   color: white;
+}
+
+.buttonfooter {
+background-color: #04AA6D;
+border: 2px solid white;
+}
+
+.buttonfooter:hover {
+background-color: white;
+color: #04AA6D;
 }
