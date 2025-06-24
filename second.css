@@ -71,16 +71,17 @@ border: none;
 }
 
 .navigation {
-padding: 60px;
+padding: 3.125vw;
 background: #1abc9c;
 color: white;
-font-size: 30px;
+font-size: 1.5625vw;
 background-repeat: no-repeat, repeat;
 border: 4px solid #04AA6D;
 }
 
 #page2header {
 background-image: url("images/headers/page2header.png");
+background-size: cover;
 }
 
 #headertext {
@@ -112,7 +113,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 1.0416666666666667vw;
 }
 
 li:last-child {
@@ -153,7 +154,7 @@ text-align: center;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 0.8333333333333334vw;
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
@@ -183,7 +184,7 @@ color: #04AA6D;
 /*PANEL CODE*/
 .panel {
 border: 2px solid black;
-padding: 8px;
+padding: 2%;
 
 /*STARTING TEXT*/
 .start h2 {
@@ -199,7 +200,13 @@ margin-right: auto;
 display: flex;
 }
 
-.imageflexcontent
-{ margin-left: 5px;
+.imageflexcontent {
+margin-left: 5px;
 margin-top: 0;
+font-size: 1.5625vw;
+}
+
+.imageflexcontentborder {
+padding: 5px;
+border: 2px solid black;
 }

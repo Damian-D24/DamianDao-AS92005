@@ -84,7 +84,7 @@ border: none;
 
 /*NAVIGATION*/
 .navigation {
-padding: 60px;
+padding: 4.640371229698376vw;
 background: #1abc9c;
 color: black;
 font-size: 30px;
@@ -93,16 +93,11 @@ border: 4px solid #04AA6D;
 }
 
 /*HEADER BACKGROUNDS*/
-#homeheader {
-background-image: url("images/headers/homeheader.png");
-}
-
-#page2header {
-background-image: url("images/headers/page2header.jpg");
-}
-
 #page4header {
-background-image: url("images/headers/page4header.jpg")
+background-image: url("images/headers/page4header.jpg");
+width: 150pw;
+height: 71.875pw;
+background-size: cover;
 }
 
 #headertext {

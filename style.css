@@ -82,10 +82,7 @@ border: 4px solid #04AA6D;
 
 #homeheader {
 background-image: url("images/headers/homeheader.png");
-}
-
-#page2header {
-background-image: url("images/headers/page2header.jpg");
+background-size: cover;
 }
 
 #headertext {
