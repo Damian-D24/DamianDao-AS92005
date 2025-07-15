@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4c20617-8ff2-4eb3-b4f3-af8603e5eab6" name="Changes" comment="24/06/2025">
+      <change afterPath="$PROJECT_DIR$/images/donation.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fourth.css" beforeDir="false" afterPath="$PROJECT_DIR$/fourth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/second.css" beforeDir="false" afterPath="$PROJECT_DIR$/second.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -19,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Damian-D24"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Damian-D24&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Damian-D24/DamianDao-AS92005",
-    "accountId": "5f9f36e2-2029-453f-99f5-103c8b21d358"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Damian-D24/DamianDao-AS92005&quot;,
+    &quot;accountId&quot;: &quot;5f9f36e2-2029-453f-99f5-103c8b21d358&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -45,14 +48,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/23154/PycharmProjects/DamianDao-AS92005/images/statistics",
+    "last_opened_file_path": "C:/Users/23154/PycharmProjects/DamianDao-AS92005/images",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005\images\statistics" />
       <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005\images" />
+      <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005\images\statistics" />
       <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005\images\headers" />
       <recent name="C:\Users\23154\PycharmProjects\DamianDao-AS92005" />
     </key>
@@ -158,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750992818116</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="24/06/2025">
+      <option name="closed" value="true" />
+      <created>1752539591902</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752539591902</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
