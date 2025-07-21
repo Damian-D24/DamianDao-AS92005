@@ -22,6 +22,9 @@ font-size:1.5625vw;
 .footer1 { grid-area: 3 / 1 / 4 / 6; }
 
 /*PAGE 2*/
+.base2 {
+font-size:1.5625vw;
+}
 
 /*PAGE 4*/
 .parent4 {
@@ -56,6 +59,10 @@ background-image: url("images/headers/homeheader.png");
 background-image: url("images/headers/page2header.png");
 }
 
+#page3header {
+background-image: url("images/headers/page3header.jpg");
+}
+
 #page4header {
 background-image: url("images/headers/page4header.jpg");
 }
@@ -75,6 +82,7 @@ border: 4px solid #04AA6D;
 color: white;
 font-size: 1.5625vw;
 background-repeat: no-repeat, repeat;
+width: 100%;
 }
 
 .navigation2 {
@@ -239,18 +247,6 @@ li a:hover {
 margin-left: 20px;
 }
 
-/*SIDE*/
-.side {
-margin-left: 20px;
-}
-.sidebox {
-border: 2px solid black;
-padding: 8px;
-}
-.boxtext {
-text-align: center;
-}
-
 /*BUTTONS*/
 .button {
   border: none;
@@ -284,6 +280,21 @@ border: 2px solid white;
 .buttonfooter:hover {
 background-color: white;
 color: #04AA6D;
+}
+
+
+
+/*PAGE 1 CODE*/
+/*SIDE*/
+.side {
+margin-left: 20px;
+}
+.sidebox {
+border: 2px solid black;
+padding: 8px;
+}
+.boxtext {
+text-align: center;
 }
 
 /*PAGE 2 CODE*/
