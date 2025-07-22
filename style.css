@@ -311,6 +311,7 @@ margin-right: auto;
 /*IMAGES*/
 .imageflex {
 display: flex;
+
 }
 
 .imageflexcontent {
@@ -320,6 +321,6 @@ font-size: 1vw;
 }
 
 .imageflexcontentborder {
-padding: 5px;
+padding: 0.521vw;
 border: 2px solid black;
 }
