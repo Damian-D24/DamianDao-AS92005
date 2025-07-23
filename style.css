@@ -190,8 +190,8 @@ letter-spacing: 1px;
 
 /*FOOTER FORM*/
 form input{
-width: 400px;
-height:45px;
+width: 20.833vw;
+height:2.344vw;
 border-radius: 4px;
 text-align: center;
 margin-top: 20px;
@@ -248,11 +248,11 @@ margin-left: 20px;
 .button {
   border: none;
   color: white;
-  padding: 16px 32px;
+  padding: 16px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 0.8333333333333334vw;
+  font-size: 1vw;
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
