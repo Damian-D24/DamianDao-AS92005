@@ -28,7 +28,7 @@ font-size:1.5625vw;
     .parent4 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat 1fr;
+    grid-template-rows: 1fr;
     grid-column-gap: 0px;
     grid-row-gap: 0px; }
 
@@ -195,7 +195,7 @@ height:2.344vw;
 border-radius: 4px;
 text-align: center;
 margin-top: 20px;
-margin-botton: 40px;
+margin-bottom: 40px;
 outline: none;
 border: none;
 }
@@ -299,28 +299,20 @@ text-align: center;
 .panel {
 border: 2px solid black;
 padding: 2%;
-/*STARTING TEXT*/
-.start h2 {
-text-align:end;
-margin-left:50%
-}
-.start img {
-margin-right: auto;
-}
 
 /*IMAGES*/
-.imageflex {
+.imagesforflex {
 display: flex;
 
 }
 
-.imageflexcontent {
+.imagesforflexcontent {
 margin-left: 5px;
 margin-top: 0;
 font-size: 1vw;
 }
 
-.imageflexcontentborder {
+.imagesforflexcontentborder {
 padding: 0.521vw;
 border: 2px solid black;
 }
