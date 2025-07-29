@@ -301,18 +301,17 @@ border: 2px solid black;
 padding: 2%;
 
 /*IMAGES*/
-.imagesforflex {
+.imageflex {
 display: flex;
-
 }
 
-.imagesforflexcontent {
+.imageflexcontent {
 margin-left: 5px;
 margin-top: 0;
 font-size: 1vw;
 }
 
-.imagesforflexcontentborder {
+.imageflexcontentborder {
 padding: 0.521vw;
 border: 2px solid black;
 }
