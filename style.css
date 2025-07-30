@@ -293,15 +293,24 @@ color: #04AA6D;
 /*SIDE*/
 .side {
 margin-left: 20px;
+padding-top: 60px;
 }
 .sidebox {
 border: 2px solid black;
-padding: 8px;
+padding: 1.5vw;
+overflow: hidden;
 }
+
 .boxtext {
 text-align: center;
 }
 
+.boxtext img {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+  object-position: center;
+}
 /*PAGE 2 CODE*/
 /*PANEL CODE*/
 .panel {
