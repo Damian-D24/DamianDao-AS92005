@@ -7,7 +7,6 @@
     <list default="true" id="e4c20617-8ff2-4eb3-b4f3-af8603e5eab6" name="Changes" comment="24/06/2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,24 +19,24 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GitHubPullRequestState"><![CDATA[{
-  "prStates": [
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
     {
-      "id": {
-        "id": "PR_kwDOO28HQ86hbgkR",
-        "number": 2
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOO28HQ86hbgkR&quot;,
+        &quot;number&quot;: 2
       },
-      "lastSeen": 1753909825158
+      &quot;lastSeen&quot;: 1753909825158
     },
     {
-      "id": {
-        "id": "PR_kwDOO28HQ86hbz0J",
-        "number": 3
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOO28HQ86hbz0J&quot;,
+        &quot;number&quot;: 3
       },
-      "lastSeen": 1754014481626
+      &quot;lastSeen&quot;: 1754014481626
     }
   ]
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Damian-D24/DamianDao-AS92005&quot;,
@@ -270,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753912290749</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="24/06/2025">
+      <option name="closed" value="true" />
+      <created>1754016827712</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1754016827712</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
